@@ -1,9 +1,9 @@
-# Cusom interrapt 09h to your attention!
+# 🎃Cusom interrapt 09h to your attention!
 ## Paint frame of regs
 
 ---
 
-## How to use
+## 🧸How to use
 
 ### (If u use dosbox, I can help)
 Clon asm file -> open dosbox -> ptintf in console of Db: // ***tasm /la "name_of_file.asm"*** //-> // ***tlink /t "name_of_file.obj"*** //-> ***"name_of_file.com"***
@@ -26,7 +26,7 @@ If u want to use some parts of programm, go to ***<resident/components>***. Then
 ---
 
 (about trio_buf_.asm)
-## What did
+## 🌌What did
 
 Press 6 //-> A frame with registers is drawn
 
@@ -36,7 +36,7 @@ Press 9 //-> Hide ramka
 
 ---
 
-## Bugs
+## ✨Bugs
 Triple buffering is not full now (fast version use only one symbol to compare) => if you draw anyting on frame (not full) => its not save
 
 If you hover the mouse over the window => unforeseen circumstances
