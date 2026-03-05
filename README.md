@@ -32,7 +32,7 @@ Press 6 //-> A frame with registers is drawn
 
 Press 9 //-> Hide ramka
 
-<img width="1056" height="848" alt="Снимок экрана 2026-03-05 в 17 00 01" src="https://github.com/user-attachments/assets/8d9a5e45-71ca-4240-8a0e-cdc8739750cd" />
+<img width="1056" height="848" alt="Снимок экрана 2026-03-05 в 17 09 07" src="https://github.com/user-attachments/assets/7b8281fe-ccdc-4871-9281-87e3bfcac76d" />
 
 ---
 
